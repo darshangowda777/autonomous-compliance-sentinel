@@ -21,7 +21,6 @@ Pipeline:
 5. LLM audit for explainability
 6. Dashboard reporting and compliance monitoring
 
-![Architecture Diagram](images/architecture.png)
 
 ## Technologies
 Python
