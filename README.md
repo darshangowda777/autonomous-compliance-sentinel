@@ -23,7 +23,7 @@ Pipeline:
 
 
 ## Technologies
-Python\\
-Scikit-learn
-LLM (LLaMA)
+Python,
+Scikit-learn,
+LLM (LLaMA),
 Jupyter Notebook
